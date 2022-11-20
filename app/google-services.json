@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831224786986",
+    "project_id": "retrieveimage-b704f",
+    "storage_bucket": "retrieveimage-b704f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831224786986:android:119f0cbd8ac2f128525353",
+        "android_client_info": {
+          "package_name": "com.example.retireveimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831224786986-u7gf1qcun4f5vusthkff20kcronpabrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrX_jC1Uc40K-gxR6tK6HPPwRh8KFfP0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831224786986-u7gf1qcun4f5vusthkff20kcronpabrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
